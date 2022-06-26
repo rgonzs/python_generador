@@ -1,0 +1,5 @@
+*.csv
+*.numbers
+# Allow
+!data.csv
+!prueba.csv
